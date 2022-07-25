@@ -4,7 +4,7 @@ import FormReg from './formregistor';
 function App() {
   return (
     <div className="App">
-      asd
+      
       <FormReg/>
     </div>
   );
